@@ -1,3 +1,4 @@
 Password Vault Project
 
+This project uses advanced password hashing.
 This project uses secure password encryption.
