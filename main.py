@@ -4,8 +4,8 @@ from argon2.exceptions import VerifyMismatchError
 from cryptography.fernet import Fernet
 
 from security import ph, derive_key
-from database import init_db, setup_account, get_vault_config
-from vault_operations import add_password, list_passwords
+from databse import init_db, setup_account, get_vault_config
+from operations import add_password, list_passwords
 
 
 def main():
