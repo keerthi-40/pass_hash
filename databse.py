@@ -1,4 +1,6 @@
+#database module for password vault
 import sqlite3
+
 import os
 
 from security import ph
