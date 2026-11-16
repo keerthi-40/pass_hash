@@ -1,3 +1,4 @@
+#password vault operations module
 import sqlite3
 from getpass import getpass
 
